@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost:3000",
+  "url": "https://github.com/pakanjuzx333/mnfsts",
   "name": "TON Voucher Platform",
-  "iconUrl": "http://localhost:3000/icon-192x192.png",
-  "termsOfUseUrl": "http://localhost:3000/terms",
-  "privacyPolicyUrl": "http://localhost:3000/privacy"
+  "iconUrl": "https://github.com/pakanjuzx333/mnfsts/icon-192x192.png",
+  "termsOfUseUrl": "https://github.com/pakanjuzx333/mnfsts/ton-voucher-platform/terms",
+  "privacyPolicyUrl": "https://github.com/pakanjuzx333/mnfsts/privacy"
 }
